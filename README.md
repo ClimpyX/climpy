@@ -7,5 +7,7 @@ Java, Python
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCi3RU0g5IoGKIeLLrNxmPTA)
 [![gmail](https://img.shields.io/badge/gmail-ff3f00?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=efehalilbeyoglu@gmail.com)
 
+[![Climpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=climpyx)](https://github.com/climpyx/github-readme-stats)
+
 
 <img align="left" src="https://i.ibb.co/njyM8Gs/pikachu-portable-network-graphics-pixel-art-squirtle-png-favpng-1-GDZFg-Xk-SRwue-DU7a1-WEGGG8r.png">
