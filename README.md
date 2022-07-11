@@ -1,6 +1,8 @@
 ## Efe Halilbeyoglu 🚀 (Climpy)
 Java, Python
 
+<img src="http://views.whatilearened.today/views/github/ClimpyX/views.svg"/>
+
 ## 🔗 Links
 [![discord server](https://img.shields.io/badge/discord-1d3ef2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d9FEnGK2a3)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/climpyx)
