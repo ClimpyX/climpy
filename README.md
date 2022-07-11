@@ -1,5 +1,5 @@
 ## Efe Halilbeyoglu 🚀 (Climpy)
-Java, Python
+<img src="https://img.shields.io/badge/Java SE-important" alt="Java SE" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" />
 
 <img src="http://views.whatilearened.today/views/github/ClimpyX/views.svg"/>
 
